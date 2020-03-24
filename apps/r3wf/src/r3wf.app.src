@@ -1,0 +1,15 @@
+{application, r3wf,
+ [{description, "rebar3 work flow appliaction"},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {mod, {r3wf_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.
