@@ -1,6 +1,6 @@
 {application, r3wf,
  [{description, "rebar3 work flow appliaction"},
-  {vsn, "0.0.1"},
+  {vsn, "0.0.2"},
   {registered, []},
   {mod, {r3wf_app, []}},
   {applications,
